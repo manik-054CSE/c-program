@@ -1,0 +1,14 @@
+#inlude<stdio.h>
+int main(){
+int a;
+int b;
+int c;
+int manik;
+//int manik is good;invalid// //sapce not allow
+
+//int manik#good;//invalid
+int _manik;// valid
+int manik$;//valid
+
+
+}
