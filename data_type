@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+//int a;
+//a=1;
+int a=1;//integer int 4bytes 32 bits
+float b=1.4;//decimal float 4bytes(bits)
+char c='a';//charecter 1byte  8bits
+return 0;
+}
